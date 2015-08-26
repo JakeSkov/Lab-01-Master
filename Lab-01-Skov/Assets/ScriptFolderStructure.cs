@@ -3,6 +3,11 @@ using System.Collections;
 using UnityEditor;
 using System.IO;
 
+/// <summary>
+/// @Author Jake Skov
+/// @Desc ScriptFolderStructure Creates a folderstructure inside Unity
+/// @Date 8/24/2015
+/// </summary>
 public class ScriptFolderStructure : MonoBehaviour 
 {
     static bool filesExist = false;
